@@ -61,9 +61,13 @@ A comment is already added in the code indicating where this change can be made.
 
 ## Usage
 
-Run the script:
+Run the script for windows:
 ```bash
 python main.py
+```
+or for linux/mac:
+```bash
+python3 main.py
 ```
 Then enter:
 ```bash
